@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trying to find my path in computer science
 
 <!--
 **william-fedele/william-fedele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
