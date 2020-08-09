@@ -1,4 +1,4 @@
-### Trying to find my path in computer science
+# [LinkedIn](https://linkedin.com/in/william-fedele-5763681a9)
 
 <!--
 **william-fedele/william-fedele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
